@@ -1,0 +1,54 @@
+*{
+    margin: 0;
+}
+.header{
+    background: linear-gradient(to left bottom,#A6DBF9, #F1B8ED, lightblue);
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+
+}
+.link{
+    display: flex;
+    list-style: none;
+}
+.link li{
+    padding: 10px;
+}
+.logo{
+    padding-top: 10px;
+}
+.hero img{
+    width: 30%;
+    height: 300px;
+}
+.hero{
+    background: linear-gradient(to left bottom,#F1B8ED,lightblue,#A6DBF9);
+    display: flex; 
+    padding: 30px;
+}
+.about{
+    padding-top: 30px;
+}
+.intro{
+     font-family: 'Courier New', Courier, monospace;
+     padding-top: 16px;
+     font-size:25px;
+}
+.footer{
+    background: linear-gradient(to left bottom,#F1B8ED,lightblue,#A6DBF9);
+    height: 100vh;
+
+}
+.footer h1{
+    padding: 30px;
+    text-align: center;
+}
+.footer img{
+    width: 75px;
+    height: 73px;
+    padding-top: 35px;
+    padding-left: 681px;
+}
+
+
